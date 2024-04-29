@@ -1,0 +1,1 @@
+﻿Pattern mẫu creational
